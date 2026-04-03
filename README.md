@@ -104,11 +104,7 @@
       <div class="service">
         <h3>Commercial Projects</h3>
         <p>Reliable electrical setups for offices, shops, and complexes.</p>
-      </div>
-      <div class="service">
-        <h3>Industrial Installations</h3>
-        <p>Heavy-duty electrical systems tailored for factories and plants.</p>
-      </div>
+        </div>
     </div>
   </section>
 
